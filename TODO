@@ -1,0 +1,2 @@
+nix run github:nix-community/nix-melt
+nix run nixpkgs#statix
